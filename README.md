@@ -11,7 +11,7 @@ Project Modules
 Development Team
 Student Name: Shan Ken S. Malabanan  
 Course: IT 3012
-Section: BSIT 2C
+Section: BSIT BA 2C
 
 Member Management Module
 
