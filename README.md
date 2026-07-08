@@ -26,4 +26,4 @@ Contributor Update
 Contributor Name: Rein A. Tamayao
 
 Feature Added:
-- Digital Library Dashboard
+- Digital Library Dashboard.
